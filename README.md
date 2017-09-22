@@ -24,3 +24,7 @@ Anything means anything. Personal questions. Money. Life. Code. Whatever.
 
 - [Read more AMAs](https://github.com/sindresorhus/amas)
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
+
+
+## License
+MIT © [Kasiriveni](https://github.com/kasiriveni)
